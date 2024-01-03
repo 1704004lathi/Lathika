@@ -1,0 +1,68 @@
+.navbar
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    padding: 15px 0;
+    background-color:white;
+    
+}
+ul{
+    flex:1;
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline;
+    margin:10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    color: black;
+}
+.H
+{
+    color: chartreuse;
+}
+.L{
+    color: crimson;
+}
+.tin{
+    display: inline;
+    margin:10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+    
+}
+.search-box
+{
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    padding: 3px 10px;
+   background: rgb(248, 245, 245);
+}
+.search-box input{
+    padding:5px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    color: #fff;
+    font-size: 18px;
+    max-width: 200px;
+}
+.search-box :-ms-input::placeholder{
+    color:#fff;
+}
+.logo
+{
+ width: 100px;
+ height:100px;
+ cursor:pointer;
+}
+.search-box img{
+    width: 20px;
+    cursor: pointer;
+}

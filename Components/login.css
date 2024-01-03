@@ -1,0 +1,118 @@
+.scc{
+    background-image: url(images/grocery2.jpg);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: cover;
+}
+#fieldset{
+    text-shadow: 20px;
+    height: 100px;
+    width: 300px;
+    margin: auto;
+    border: 1px solid rgb(0, 0, 0);
+    font-size: x-large;
+    background-color: aliceblue;
+
+}
+
+.Remember{
+    text-align: right;
+    font-size: large;
+}
+h1{
+    color: black;
+    
+}
+h2{
+    color: black;
+}
+.or{
+    text-align: center;
+}
+
+.Number input{
+    height: 50px;
+    width: 400px;
+    background: white;
+    border: none;
+    outline: none;
+    color: black;
+    font-size: 19px;
+}
+.Email input{
+    height: 50px;
+    width: 400px;
+    background: white;
+    border: none;
+    outline: none;
+    color: black;
+    font-size: 19px;
+}
+.Password input{
+    height: 50px;
+    width: 400px;
+    background: white;
+    border: none;
+    outline: none;
+    color: black;
+    font-size: 19px;
+}
+.ForgetPassword{
+    font-size: large;
+}
+.NewUser{
+    font-size: large;
+}
+/*.LogInButton{
+    font-size: large;
+    cursor: pointer;
+    background-color:antiquewhite;
+    color:rgb(199, 8, 8);
+    border: 1px solid black;
+    padding: 5px 20px;
+    border-radius: 4px;
+}*/
+.SignUp{
+    border: none;
+    outline: none;
+    font-size: large;
+    color: black;
+    text-decoration-line: underline;
+    text-underline-position: auto;
+    background: none;
+    cursor: pointer;
+}
+.ClickHere{
+    border: none;
+    outline: none;
+    font-size: large;
+    color: black;
+    text-decoration-line: underline;
+    text-underline-position: auto;
+    background: none;
+    cursor: pointer;
+}
+/*.AnotherLogIn{
+    cursor: pointer;
+    background-color:antiquewhite;
+    color:rgb(199, 8, 8);
+    border: 1px solid black;
+    padding: 5px 20px;
+    border-radius: 4px;
+}*/
+table
+{
+    border-color: black;
+}
+input
+{
+  
+   padding: 5px 20px;
+   box-sizing: border-box;
+   background-color: rgb(244, 230, 212);
+}
+.h1
+{
+
+    color: white;
+}

@@ -1,0 +1,31 @@
+.home
+{
+    margin: 0;
+    background-image: url("https://img.freepik.com/free-photo/various-vegetables-black-table-with-space-message_1220-614.jpg?size=626&ext=jpg&ga=GA1.1.696649662.1702403564&semt=ais");
+    background-size: cover;
+    width: 100%;
+}
+.G
+{
+    color: crimson;
+}
+.K
+{
+    color: rgb(87, 135, 6);
+}
+.but
+{
+    background-color: rgb(33, 151, 41);
+    padding: 5px 20px;
+    border-radius: 4px;
+    align-items: center;
+}
+.oop
+{
+    color: white;
+}
+.hi
+{
+    color: white;
+}
+
